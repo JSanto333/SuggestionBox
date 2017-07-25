@@ -6,7 +6,7 @@ using System.Web;
 
 namespace SuggestionBox.Models
 {
-     class SuggestionModel
+     public class SuggestionModel
     {
         private string topic;
         private string suggestion;
